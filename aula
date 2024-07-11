@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documento</title>
+</head>
+<body>
+    <div>
+        <span>Carro:</span>
+        <span><R$30.000,00</span>
+    </div>
+    <div>
+        <span>Gol</span>
+        <span>2011</span>
+        <span>Vermelho</span>
+    </div>
+    <div>
+        <a href="">Compra Veiculo</a>
+    </div>
+</body>   
+
+</html>
